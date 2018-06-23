@@ -1,0 +1,11 @@
+body{
+	padding: 50px;
+	background-color: #ff0066;
+	font-family: monospace;
+	margin-left: 40%;
+}
+
+#root{
+	display: flex;
+	justify-content: flex;
+}
